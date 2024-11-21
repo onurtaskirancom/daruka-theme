@@ -1,7 +1,7 @@
 # Daruka Theme
 
 **Daruka Theme** is a modern and elegant dark theme for Visual Studio Code. Designed to improve focus and reduce eye strain while coding.
-
+![Daruka Theme Logo](./images/daruka-theme-icon.png)
 ---
 
 ## 🎨 Features
