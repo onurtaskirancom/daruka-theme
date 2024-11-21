@@ -1,0 +1,46 @@
+{
+  "name": "daruka-theme",
+  "displayName": "Daruka Theme",
+  "description": "A modern dark theme with a balanced color palette for enhanced focus and readability.",
+  "version": "1.0.0",
+  "publisher": "onur-taskiran",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "visual studio code",
+    "Daruka",
+    "coding theme",
+    "developer tools",
+    "react",
+    "javascript"
+  ],
+  "icon": "./images/daruka-theme-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/daruka-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/daruka-theme/issues"
+  },
+  "homepage": "https://github.com/yourusername/daruka-theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Daruka Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Daruka Theme-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "vsce package"
+  },
+  "devDependencies": {
+    "vsce": "^2.10.0"
+  }
+}
