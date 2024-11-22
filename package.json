@@ -2,7 +2,7 @@
   "name": "daruka-theme",
   "displayName": "Daruka Theme",
   "description": "A modern dark theme with a balanced color palette for enhanced focus and readability.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "OnurTaskiran",
   "engines": {
     "vscode": "^1.95.0"
