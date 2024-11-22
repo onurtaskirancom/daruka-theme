@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/daruka-theme-icon.png" alt="Daruka Theme Logo" width="200">
+  <img src="https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/daruka-theme-icon.png" alt="Daruka Theme Logo" width="200">
 </div>
 
 # Daruka Theme
@@ -20,10 +20,10 @@
 ## 📸 Screenshots
 
 ### **Code Example**
-![Code Example](./images/code-example.png)
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/code-example.png)
 
 ### **Code Example2**
-![Code Example](./images/code-example2.png)
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/code-example2.png)
 
 ---
 

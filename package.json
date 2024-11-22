@@ -3,7 +3,7 @@
   "displayName": "Daruka Theme",
   "description": "A modern dark theme with a balanced color palette for enhanced focus and readability.",
   "version": "1.0.0",
-  "publisher": "onur-taskiran",
+  "publisher": "OnurTaskiran",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -22,12 +22,12 @@
   "icon": "./images/daruka-theme-icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/daruka-theme"
+    "url": "https://github.com/onurtaskirancom/daruka-theme"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/daruka-theme/issues"
+    "url": "https://github.com/onurtaskirancom/daruka-theme/issues"
   },
-  "homepage": "https://github.com/yourusername/daruka-theme",
+  "homepage": "https://github.com/onurtaskirancom/daruka-theme",
   "contributes": {
     "themes": [
       {
@@ -38,8 +38,9 @@
     ]
   },
   "scripts": {
-    "vscode:prepublish": "vsce package"
-  },
+  "vscode:prepublish": "",
+  "compile": ""
+},
   "devDependencies": {
     "vsce": "^2.10.0"
   }
