@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/daruka-theme-icon.png" alt="Daruka Theme Logo" width="200">
+  <img src="https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/daruka.jpg" alt="Daruka Theme Logo" style="max-width: 728px; width: 100%;">
 </div>
 
 # Daruka Theme
@@ -20,10 +20,10 @@
 ## 📸 Screenshots
 
 ### **Code Example**
-![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/code-example.png)
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/code-example-1.png)
 
 ### **Code Example2**
-![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/code-example2.png)
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/code-example-2.png)
 
 ---
 
@@ -39,6 +39,17 @@
 
 ---
 
+## 📄 Background Story
+
+You can read more about the inspiration and story behind the **Daruka Theme** in the blog post:  
+👉 [Daruka Theme for Visual Studio Code - Your Personalized Dark Theme](https://www.onurtaskiran.com/daruka-theme-for-visual-studio-code-your-personalized-dark-theme)
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/daruka-theme-icon.png" alt="Daruka Theme Logo" width="200">
+</div>
+
 ## 📄 Usage
 
 Enhance your coding experience with **Daruka Theme**.
@@ -51,6 +62,13 @@ Enhance your coding experience with **Daruka Theme**.
 - **Supported Languages:**
   - HTML, CSS, JavaScript, TypeScript
   - JSON, Markdown, and more.
+
+---
+
+## ☕ Support
+
+If you enjoy using the **Daruka Theme** and would like to support its development, consider buying me a coffee:  
+👉 [Buy Me a Coffee](https://buymeacoffee.com/onurtaskiran)
 
 ---
 
