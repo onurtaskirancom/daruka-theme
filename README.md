@@ -20,10 +20,13 @@
 ## 📸 Screenshots
 
 ### **Code Example**
-![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/code-example-1.png)
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/1code-example.png)
 
 ### **Code Example2**
-![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/code-example-2.png)
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/2code-example.png)
+
+### **Code Example3**
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/3code-example.png)
 
 ---
 
@@ -41,7 +44,7 @@
 
 ## 📄 Background Story
 
-You can read more about the inspiration and story behind the **Daruka Theme** in the blog post:  
+You can read more about the inspiration and story behind the **Daruka Theme** in the blog post:
 👉 [Daruka Theme for Visual Studio Code - Your Personalized Dark Theme](https://www.onurtaskiran.com/daruka-theme-for-visual-studio-code-your-personalized-dark-theme)
 
 ---
@@ -67,7 +70,7 @@ Enhance your coding experience with **Daruka Theme**.
 
 ## ☕ Support
 
-If you enjoy using the **Daruka Theme** and would like to support its development, consider buying me a coffee:  
+If you enjoy using the **Daruka Theme** and would like to support its development, consider buying me a coffee:
 👉 [Buy Me a Coffee](https://buymeacoffee.com/onurtaskiran)
 
 ---

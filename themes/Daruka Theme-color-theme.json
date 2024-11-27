@@ -31,10 +31,10 @@
     "sideBar.dropBackground": "#212222",
     "list.background": "#000000",
     "list.foreground": "#CCCCCC",
-    "list.activeSelectionBackground": "#1a1919",
-    "list.activeSelectionForeground": "#FFFFFF",
-    "list.inactiveSelectionBackground": "#1a1919",
-    "list.inactiveSelectionForeground": "#CCCCCC",
+    "list.activeSelectionBackground": "#3e3e3e",
+    "list.activeSelectionForeground": "#82AAFF",
+    "list.inactiveSelectionBackground": "#353535",
+    "list.inactiveSelectionForeground": "#82AAFF",
     "list.hoverBackground": "#1a1919",
     "list.hoverForeground": "#FFFFFF",
     "list.dropBackground": "#212222",
@@ -54,7 +54,28 @@
     "gitDecoration.untrackedResourceForeground": "#47a0fafb",
     "gitDecoration.ignoredResourceForeground": "#808080",
     "gitDecoration.conflictingResourceForeground": "#FF4500",
-    "gitDecoration.submoduleResourceForeground": "#800080"
+    "gitDecoration.submoduleResourceForeground": "#800080",
+    "terminal.background": "#1a1a1a",
+    "terminal.foreground": "#82AAFF",
+    "terminalCursor.background": "#82AAFF",
+    "terminalCursor.foreground": "#82AAFF",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#FF5C57",
+    "terminal.ansiGreen": "#5AF78E",
+    "terminal.ansiYellow": "#F3F99D",
+    "terminal.ansiBlue": "#82AAFF",
+    "terminal.ansiMagenta": "#FF6AC1",
+    "terminal.ansiCyan": "#9AEDFE",
+    "terminal.ansiWhite": "#F1F1F0",
+    "terminal.ansiBrightBlack": "#686868",
+    "terminal.ansiBrightRed": "#FF6E67",
+    "terminal.ansiBrightGreen": "#5AF78E",
+    "terminal.ansiBrightYellow": "#F4F99D",
+    "terminal.ansiBrightBlue": "#82AAFF",
+    "terminal.ansiBrightMagenta": "#FF92D0",
+    "terminal.ansiBrightCyan": "#9AEDFE",
+    "terminal.ansiBrightWhite": "#FFFFFF"
+
   },
   "tokenColors": [
     {
@@ -132,11 +153,11 @@
     {
       "scope": [
         "comment",
-        "punctuation.definition.comment" 
+        "punctuation.definition.comment"
       ],
       "settings": {
         "foreground": "#7C7C7C",
-        "fontStyle": "italic"
+        "fontStyle": "normal"
       }
     },
     {
