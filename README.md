@@ -36,10 +36,6 @@ You can read more about the inspiration and story behind the **Daruka Theme** in
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/daruka-theme-icon.png" alt="Daruka Theme Logo" width="200">
-</div>
-
 ## 📄 Usage
 
 Enhance your coding experience with **Daruka Theme**.
