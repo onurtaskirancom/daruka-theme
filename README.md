@@ -17,19 +17,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### **Code Example**
-![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/1-code-example.png)
-
-### **Code Example2**
-![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/2-code-example.png)
-
-### **Code Example3**
-![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/3-code-example.png)
-
----
-
 ## 🚀 Installation
 
 1. Open Visual Studio Code and go to the **Extensions** view (`Ctrl+Shift+X`).
@@ -65,13 +52,6 @@ Enhance your coding experience with **Daruka Theme**.
 - **Supported Languages:**
   - HTML, CSS, JavaScript, TypeScript
   - JSON, Markdown, and more.
-
----
-
-## ☕ Support
-
-If you enjoy using the **Daruka Theme** and would like to support its development, consider buying me a coffee:
-👉 [Buy Me a Coffee](https://buymeacoffee.com/onurtaskiran)
 
 ---
 
