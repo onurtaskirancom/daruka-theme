@@ -16,6 +16,16 @@
 - **Language Support:** Optimized for HTML, CSS, JavaScript, JSON, Markdown, and more.
 
 ---
+## 📸 Screenshots
+
+### **Code Example**
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/1-code-example.png)
+### **Code Example2**
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/2-code-example.png)
+### **Code Example3**
+![Code Example](https://raw.githubusercontent.com/onurtaskirancom/daruka-theme/master/images/3-code-example.png)
+
+--
 
 ## 🚀 Installation
 
