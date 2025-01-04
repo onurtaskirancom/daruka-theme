@@ -77,7 +77,13 @@
     "terminal.ansiBrightWhite": "#FFFFFF"
 
   },
-  "tokenColors": [
+ "tokenColors": [
+    {
+      "scope": "support.type.object.module.js",
+      "settings": {
+        "foreground": "#FF6AC1"
+      }
+    },
     {
       "scope": "entity.name.tag.js",
       "settings": {
@@ -240,5 +246,6 @@
         "foreground": "#96D0FF"
       }
     }
-  ]
+]
+
 }
