@@ -75,13 +75,12 @@
     "terminal.ansiBrightMagenta": "#FF92D0",
     "terminal.ansiBrightCyan": "#9AEDFE",
     "terminal.ansiBrightWhite": "#FFFFFF"
-
   },
- "tokenColors": [
+  "tokenColors": [
     {
       "scope": "support.type.object.module.js",
       "settings": {
-        "foreground": "#FF6AC1"
+        "foreground": "#CE78B0"
       }
     },
     {
@@ -245,7 +244,114 @@
       "settings": {
         "foreground": "#96D0FF"
       }
+    },
+    {
+      "scope": "entity.name.type.namespace.cs",
+      "settings": {
+        "foreground": "#C4B9FE"
+      }
+    },
+    {
+      "scope": "entity.name.type.cs",
+      "settings": {
+        "foreground": "#96D0FF"
+      }
+    },
+    {
+      "scope": "entity.name.type.class.cs",
+      "settings": {
+        "foreground": "#CE78B0"
+      }
+    },
+    {
+      "scope": "storage.modifier.private.cs",
+      "settings": {
+        "foreground": "#96D0FF"
+      }
+    },
+    {
+      "scope": "storage.modifier.public.cs",
+      "settings": {
+        "foreground": "#C4B9FE"
+      }
+    },
+    {
+      "scope": "storage.type.namespace.cs",
+      "settings": {
+        "foreground": "#C4B9FE"
+      }
+    },
+    {
+      "scope": "storage.type.class.cs",
+      "settings": {
+        "foreground": "#96D0FF"
+      }
+    },
+    {
+      "scope": "entity.name.function.python",
+      "settings": {
+        "foreground": "#96D0FF"
+      }
+    },
+    {
+      "scope": "meta.function.python",
+      "settings": {
+        "foreground": "#CE78B0"
+      }
+    },
+    {
+      "scope": "meta.function-call.arguments.python",
+      "settings": {
+        "foreground": "#C4B9FE"
+      }
+    },
+    {
+      "scope": "meta.fstring.python",
+      "settings": {
+        "foreground": "#FFCC66"
+      }
+    },
+    {
+      "scope": "meta.function-call.python",
+      "settings": {
+        "foreground": "#C4B9FE"
+      }
+    },
+    {
+      "scope": "entity.name.function.cs",
+      "settings": {
+        "foreground": "#96D0FF"
+      }
+    },
+    {
+      "scope": "entity.name.variable.local.cs",
+      "settings": {
+        "foreground": "#CE78B0"
+      }
+    },
+    {
+      "scope": "storage.type.var.cs",
+      "settings": {
+        "foreground": "#C4B9FE"
+      }
+    },
+    {
+      "scope": "entity.name.variable.parameter.cs",
+      "settings": {
+        "foreground": "#FFCC66"
+      }
+    },
+    {
+      "scope": "entity.name.function.python",
+      "settings": {
+        "foreground": "#96D0FF"
+      }
+    },
+    {
+      "scope": "meta.function.python",
+      "settings": {
+        "foreground": "#CE78B0"
+      },
     }
-]
-
+  ]
 }
