@@ -78,6 +78,18 @@
   },
   "tokenColors": [
     {
+      "scope": "text.html.php",
+      "settings": {
+        "foreground": "#C4B9FE"
+      }
+    },
+    {
+      "scope": "variable.other.php",
+      "settings": {
+        "foreground": "#CE78B0"
+      }
+    },
+    {
       "scope": "support.type.object.module.js",
       "settings": {
         "foreground": "#CE78B0"
