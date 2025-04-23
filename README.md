@@ -59,13 +59,21 @@ These colors have been fine-tuned for optimal readability and aesthetics in a da
 
 ---
 
-## 🆕 What's New in Version 1.1.1
+## 🆕 What's New in Version 1.2.0
 
+- **Enhanced TypeScript Support:** Added more detailed syntax highlighting for TypeScript functions, variables, and JSX/TSX elements.
+- **Improved React TypeScript Components:** Better readability with distinct colors for different code elements.
+- **Fixed White Text Issues:** Eliminated white text coloring in TypeScript files for a more consistent theme experience.
+
+## Previous Updates
+
+### Version 1.1.1
 - **Added Support for TypeScript:** Enhanced syntax highlighting for TypeScript-specific features like interfaces, types, generics, and more.
-- **Previous Version 1.1.0 Updates:**
-  - Added Support for PHP: Syntax highlighting for PHP-specific tags and variables.
-  - Enhanced C# and Python Support: Improved readability for classes, variables, and functions.
-  - Core Colors Refined: Focused on `#C4B9FE`, `#CE78B0`, and `#82AAFF` as the primary colors.
+
+### Version 1.1.0
+- Added Support for PHP: Syntax highlighting for PHP-specific tags and variables.
+- Enhanced C# and Python Support: Improved readability for classes, variables, and functions.
+- Core Colors Refined: Focused on `#C4B9FE`, `#CE78B0`, and `#82AAFF` as the primary colors.
 
 ---
 

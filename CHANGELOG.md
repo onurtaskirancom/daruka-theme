@@ -4,7 +4,7 @@ All notable changes to the "daruka-theme" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.2.0] - 2025-04-24
+## [1.2.0] - 2024-04-24
 
 - Enhanced TypeScript support with more detailed syntax highlighting
 - Added specific colors for TypeScript functions, variables, and JSX/TSX elements
