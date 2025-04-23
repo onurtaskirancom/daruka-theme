@@ -4,7 +4,7 @@
 
 # Daruka Theme
 
-**Daruka Theme** is a modern and elegant dark theme for Visual Studio Code. Designed to improve focus and reduce eye strain while coding. Originally crafted for **React** and **JavaScript** development, this theme now supports multiple languages, including **C#**, **Python**, and **PHP**.
+**Daruka Theme** is a modern and elegant dark theme for Visual Studio Code. Designed to improve focus and reduce eye strain while coding. Originally crafted for **React** and **JavaScript** development, this theme now supports multiple languages, including **TypeScript**, **C#**, **Python**, and **PHP**.
 
 ---
 
@@ -59,21 +59,24 @@ These colors have been fine-tuned for optimal readability and aesthetics in a da
 
 ---
 
-## 🆕 What's New in Version 1.1.0
+## 🆕 What's New in Version 1.1.1
 
-- **Added Support for PHP:** Syntax highlighting for PHP-specific tags and variables.
-- **Enhanced C# and Python Support:** Improved readability for classes, variables, and functions.
-- **Core Colors Refined:** Focused on `#C4B9FE`, `#CE78B0`, and `#82AAFF` as the primary colors.
+- **Added Support for TypeScript:** Enhanced syntax highlighting for TypeScript-specific features like interfaces, types, generics, and more.
+- **Previous Version 1.1.0 Updates:**
+  - Added Support for PHP: Syntax highlighting for PHP-specific tags and variables.
+  - Enhanced C# and Python Support: Improved readability for classes, variables, and functions.
+  - Core Colors Refined: Focused on `#C4B9FE`, `#CE78B0`, and `#82AAFF` as the primary colors.
 
 ---
 
-## 💡 Designed for React & JavaScript
+## 💡 Designed for React, JavaScript & TypeScript
 
-Daruka Theme was originally created with **React** and **JavaScript** developers in mind. It features:
+Daruka Theme was originally created with **React** and **JavaScript** developers in mind, and now features full **TypeScript** support. It features:
 
-- Clear and vibrant highlighting for JSX and modern ES6+ syntax.
+- Clear and vibrant highlighting for JSX/TSX and modern ES6+/TypeScript syntax.
 - Smooth distinction between components, props, and hooks.
-- Optimized visibility for debugging and navigating complex React codebases.
+- Enhanced visualization of TypeScript interfaces, types, and generics.
+- Optimized visibility for debugging and navigating complex React and TypeScript codebases.
 
 ---
 
@@ -98,7 +101,7 @@ The theme is tailored for a wide range of programming languages, including:
 
 ## 🛠️ Development & Contribution
 
-If you’d like to contribute or modify this theme:
+If you'd like to contribute or modify this theme:
 
 1. Clone the repository:
    ```bash
